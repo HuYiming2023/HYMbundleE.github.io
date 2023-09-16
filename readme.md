@@ -1,8 +1,6 @@
-# **Hellow World!**:+1:
-# Hellow World!
+# Hellow World!:+1:
 # *Hellow World!*
 ## I am HuYiming.
-
 ### This is my bundle E project.
 Some basic Git commands are:
 ```
